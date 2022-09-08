@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome, fellow coder!
+I'm Philipp, enthusiastic python and Android/kotlin developer with a background in neuroscience and AI.
+
+Currently, I'm the CEO and lead Android developer at @eye2you where we make retina examinations faster, cheaper, and more accessible by combining mobile devices and artificial intelligence.
+
+My expertise is in machine learning / artificial intelligence for image and video processing. But I'm also interested in other fields of machine learning and AI, especially with mobile applications or so-called AI-on-edge. 
+
+My next (personal) project will most likely be a flutter project, so I don't have to exclude the iOS users.
 
 <!--
 **phillies/phillies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
