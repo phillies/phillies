@@ -5,7 +5,7 @@ Currently, I'm the CEO and lead Android developer at @eye2you where we make reti
 
 My expertise is in machine learning / artificial intelligence for image and video processing. But I'm also interested in other fields of machine learning and AI, especially with mobile applications or so-called AI-on-edge. 
 
-My next (personal) project will most likely be a flutter project, so I don't have to exclude the iOS users.
+My current personal project uses machine learning in transportation, and will be available in 2023. Stay tuned :-).
 
 <!--
 **phillies/phillies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
