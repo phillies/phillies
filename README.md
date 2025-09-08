@@ -9,7 +9,7 @@ My favorite technologies:
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV badge" class="project-wrapper__text-badge"/>⠀
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch badge" class="project-wrapper__text-badge"/>⠀
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" class="project-wrapper__text-badge"/>⠀
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=python&logoColor=white" alt="Flutter badge" class="project-wrapper__text-badge"/>  
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=python&logoColor=white" alt="Flutter badge" class="project-wrapper__text-badge"/> 
 <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin badge" class="project-wrapper__text-badge"/>⠀
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android badge" class="project-wrapper__text-badge"/> 
 
